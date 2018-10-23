@@ -6,11 +6,13 @@ h2 {
 button {
     display: inline-block;
     border: none;
+    outline: none;
     width: 100px;
     height: 40px;
     font: 20px ariel blue;
     background-color: lightgray;
 }
+
 
 p {
     width: 800px;
