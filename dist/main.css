@@ -1,0 +1,44 @@
+h1,
+h2 {
+    text-align: center;
+}
+
+button {
+    display: inline-block;
+    border: none;
+    width: 100px;
+    height: 40px;
+    font: 20px ariel blue;
+    background-color: lightgray;
+}
+
+p {
+    width: 800px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+ul {
+    width: 350px;
+    margin: 0 auto;
+}
+
+li {
+    line-height: 40px;
+}
+
+img {
+    display: block;
+    width: 800px;
+    margin: 10px auto;
+}
+
+.button {
+    background-color: burlywood;
+}
+
+.subcontent {
+    border: 10px solid burlywood;
+    background-color: burlywood;
+    height: 600px;
+}
